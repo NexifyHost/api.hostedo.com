@@ -1,1 +1,6644 @@
-
+[
+    {
+        "tld": ".abogado",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:28.777Z"
+    },
+    {
+        "tld": ".ac",
+        "currency": "USD",
+        "register": 25.88,
+        "renew": 46.58,
+        "transfer": 46.58,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 46.58,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:29.495Z"
+    },
+    {
+        "tld": ".academy",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 37.46,
+        "transfer": 37.26,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 37.46,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:30.191Z"
+    },
+    {
+        "tld": ".accountant",
+        "currency": "USD",
+        "register": 20.88,
+        "renew": 20.88,
+        "transfer": 20.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:31.197Z"
+    },
+    {
+        "tld": ".accountants",
+        "currency": "USD",
+        "register": 93.35,
+        "renew": 93.35,
+        "transfer": 93.15,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:32.037Z"
+    },
+    {
+        "tld": ".actor",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 35.39,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:32.790Z"
+    },
+    {
+        "tld": ".ad",
+        "currency": "USD",
+        "register": 18.48,
+        "renew": 18.48,
+        "transfer": 18.48,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:33.447Z"
+    },
+    {
+        "tld": ".adult",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 98.53,
+        "transfer": 98.33,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 98.53,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:20:34.158Z"
+    },
+    {
+        "tld": ".ae.org",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:34.713Z"
+    },
+    {
+        "tld": ".agency",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:35.424Z"
+    },
+    {
+        "tld": ".ai",
+        "currency": "USD",
+        "register": 79.98,
+        "renew": 79.98,
+        "transfer": 79.98,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [
+            "auto-ai-reg-2025"
+        ],
+        "last_updated": "2026-06-01T21:20:36.165Z"
+    },
+    {
+        "tld": ".airforce",
+        "currency": "USD",
+        "register": 83,
+        "renew": 83,
+        "transfer": 82.8,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:36.838Z"
+    },
+    {
+        "tld": ".apartments",
+        "currency": "USD",
+        "register": 45.74,
+        "renew": 45.74,
+        "transfer": 45.54,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:37.498Z"
+    },
+    {
+        "tld": ".app",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 14.69,
+        "transfer": 14.49,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 14.69,
+        "promotions": [
+            "auto-google-01-01-26"
+        ],
+        "last_updated": "2026-06-01T21:20:38.145Z"
+    },
+    {
+        "tld": ".archi",
+        "currency": "USD",
+        "register": 13.14,
+        "renew": 83,
+        "transfer": 82.8,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:38.965Z"
+    },
+    {
+        "tld": ".army",
+        "currency": "USD",
+        "register": 12.1,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:39.613Z"
+    },
+    {
+        "tld": ".art",
+        "currency": "USD",
+        "register": 3.49,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:40.272Z"
+    },
+    {
+        "tld": ".asia",
+        "currency": "USD",
+        "register": 2.06,
+        "renew": 11.59,
+        "transfer": 11.39,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 11.59,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:41.024Z"
+    },
+    {
+        "tld": ".associates",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:41.683Z"
+    },
+    {
+        "tld": ".attorney",
+        "currency": "USD",
+        "register": 49.88,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:42.331Z"
+    },
+    {
+        "tld": ".auction",
+        "currency": "USD",
+        "register": 29.18,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:43.202Z"
+    },
+    {
+        "tld": ".audio",
+        "currency": "USD",
+        "register": 93.35,
+        "renew": 103.4,
+        "transfer": 103.2,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.4,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:43.891Z"
+    },
+    {
+        "tld": ".auto",
+        "currency": "USD",
+        "register": 1863.2,
+        "renew": 2064.2,
+        "transfer": 2064,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 2064.2,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:44.603Z"
+    },
+    {
+        "tld": ".autos",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:45.377Z"
+    },
+    {
+        "tld": ".baby",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 51.8,
+        "transfer": 51.6,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.8,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:46.090Z"
+    },
+    {
+        "tld": ".band",
+        "currency": "USD",
+        "register": 12.62,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:46.803Z"
+    },
+    {
+        "tld": ".bar",
+        "currency": "USD",
+        "register": 2.3,
+        "renew": 51.8,
+        "transfer": 51.6,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.8,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:47.510Z"
+    },
+    {
+        "tld": ".barcelona",
+        "currency": "USD",
+        "register": 25.04,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:48.243Z"
+    },
+    {
+        "tld": ".bargains",
+        "currency": "USD",
+        "register": 13.14,
+        "renew": 23.94,
+        "transfer": 23.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 23.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:49.043Z"
+    },
+    {
+        "tld": ".beauty",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:49.902Z"
+    },
+    {
+        "tld": ".beer",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:20:50.716Z"
+    },
+    {
+        "tld": ".best",
+        "currency": "USD",
+        "register": 1.68,
+        "renew": 15.78,
+        "transfer": 15.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.78,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:51.418Z"
+    },
+    {
+        "tld": ".bet",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:52.196Z"
+    },
+    {
+        "tld": ".bike",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:52.851Z"
+    },
+    {
+        "tld": ".bingo",
+        "currency": "USD",
+        "register": 42.64,
+        "renew": 42.64,
+        "transfer": 42.44,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:20:53.605Z"
+    },
+    {
+        "tld": ".bio",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 58.16,
+        "transfer": 57.96,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 58.16,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:54.365Z"
+    },
+    {
+        "tld": ".biz",
+        "currency": "USD",
+        "register": 6.68,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 18.83,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:55.198Z"
+    },
+    {
+        "tld": ".black",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:55.937Z"
+    },
+    {
+        "tld": ".blackfriday",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 103.7,
+        "transfer": 103.5,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.7,
+        "promotions": [
+            "auto-june-promos-06-01-26"
+        ],
+        "last_updated": "2026-06-01T21:20:56.697Z"
+    },
+    {
+        "tld": ".blog",
+        "currency": "USD",
+        "register": 2.05,
+        "renew": 20.18,
+        "transfer": 19.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.18,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:57.487Z"
+    },
+    {
+        "tld": ".blue",
+        "currency": "USD",
+        "register": 12.62,
+        "renew": 19.87,
+        "transfer": 19.67,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 19.87,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:58.212Z"
+    },
+    {
+        "tld": ".boats",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:58.993Z"
+    },
+    {
+        "tld": ".bond",
+        "currency": "USD",
+        "register": 1.03,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.73,
+        "promotions": [
+            "auto-shortdot-1-2026"
+        ],
+        "last_updated": "2026-06-01T21:20:59.736Z"
+    },
+    {
+        "tld": ".boo",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:00.549Z"
+    },
+    {
+        "tld": ".boston",
+        "currency": "USD",
+        "register": 18.88,
+        "renew": 18.88,
+        "transfer": 18.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:01.384Z"
+    },
+    {
+        "tld": ".bot",
+        "currency": "USD",
+        "register": 36.98,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:21:02.181Z"
+    },
+    {
+        "tld": ".boutique",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:02.978Z"
+    },
+    {
+        "tld": ".br.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:03.542Z"
+    },
+    {
+        "tld": ".broker",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:04.192Z"
+    },
+    {
+        "tld": ".build",
+        "currency": "USD",
+        "register": 26,
+        "renew": 26,
+        "transfer": 25.8,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:04.915Z"
+    },
+    {
+        "tld": ".builders",
+        "currency": "USD",
+        "register": 28.15,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:06.650Z"
+    },
+    {
+        "tld": ".business",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:07.376Z"
+    },
+    {
+        "tld": ".buzz",
+        "currency": "USD",
+        "register": 1.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-buzz-11-10-25"
+        ],
+        "last_updated": "2026-06-01T21:21:08.163Z"
+    },
+    {
+        "tld": ".ca",
+        "currency": "USD",
+        "register": 9.32,
+        "renew": 9.32,
+        "transfer": 9.32,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:08.902Z"
+    },
+    {
+        "tld": ".cab",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:09.623Z"
+    },
+    {
+        "tld": ".cafe",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 41.6,
+        "transfer": 41.4,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 41.6,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:10.369Z"
+    },
+    {
+        "tld": ".cam",
+        "currency": "USD",
+        "register": 1.7,
+        "renew": 14.69,
+        "transfer": 14.49,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 7.42,
+        "promotions": [
+            "auto-cam-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:21:11.144Z"
+    },
+    {
+        "tld": ".camera",
+        "currency": "USD",
+        "register": 46.78,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:11.865Z"
+    },
+    {
+        "tld": ".camp",
+        "currency": "USD",
+        "register": 49.88,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:12.578Z"
+    },
+    {
+        "tld": ".capital",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 57.13,
+        "transfer": 56.93,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 57.13,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:13.341Z"
+    },
+    {
+        "tld": ".car",
+        "currency": "USD",
+        "register": 1863.2,
+        "renew": 2064.2,
+        "transfer": 2064,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 2064.2,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:14.028Z"
+    },
+    {
+        "tld": ".cards",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:14.864Z"
+    },
+    {
+        "tld": ".care",
+        "currency": "USD",
+        "register": 10.03,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 35.39,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:15.652Z"
+    },
+    {
+        "tld": ".careers",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 57.13,
+        "transfer": 56.93,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 57.13,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:16.341Z"
+    },
+    {
+        "tld": ".cars",
+        "currency": "USD",
+        "register": 1863.2,
+        "renew": 2064.2,
+        "transfer": 2064,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 2064.2,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:16.973Z"
+    },
+    {
+        "tld": ".casa",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 10.55,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:21:17.785Z"
+    },
+    {
+        "tld": ".cash",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:18.532Z"
+    },
+    {
+        "tld": ".casino",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 129.58,
+        "transfer": 129.38,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 129.58,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:19.305Z"
+    },
+    {
+        "tld": ".cat",
+        "currency": "USD",
+        "register": 18.83,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-cat-12-22-26"
+        ],
+        "last_updated": "2026-06-01T21:21:20.098Z"
+    },
+    {
+        "tld": ".catering",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:20.771Z"
+    },
+    {
+        "tld": ".cc",
+        "currency": "USD",
+        "register": 3.11,
+        "renew": 8.26,
+        "transfer": 8.26,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 8.26,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:21.501Z"
+    },
+    {
+        "tld": ".center",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:22.248Z"
+    },
+    {
+        "tld": ".ceo",
+        "currency": "USD",
+        "register": 9.19,
+        "renew": 88.18,
+        "transfer": 87.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 88.18,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:22.909Z"
+    },
+    {
+        "tld": ".cfd",
+        "currency": "USD",
+        "register": 0.81,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.73,
+        "promotions": [
+            "auto-shortdot-02-04-26"
+        ],
+        "last_updated": "2026-06-01T21:21:23.695Z"
+    },
+    {
+        "tld": ".channel",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:24.501Z"
+    },
+    {
+        "tld": ".charity",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 22.39,
+        "transfer": 22.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.39,
+        "promotions": [
+            "auto_gives_foundation_2025"
+        ],
+        "last_updated": "2026-06-01T21:21:25.303Z"
+    },
+    {
+        "tld": ".chat",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 36.43,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:26.245Z"
+    },
+    {
+        "tld": ".cheap",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:27.049Z"
+    },
+    {
+        "tld": ".christmas",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 31.16,
+        "transfer": 30.96,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.16,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:27.731Z"
+    },
+    {
+        "tld": ".church",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 46.78,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:28.680Z"
+    },
+    {
+        "tld": ".city",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.97,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:29.527Z"
+    },
+    {
+        "tld": ".claims",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:30.694Z"
+    },
+    {
+        "tld": ".cleaning",
+        "currency": "USD",
+        "register": 60.23,
+        "renew": 60.23,
+        "transfer": 60.03,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:31.635Z"
+    },
+    {
+        "tld": ".click",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 10.55,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:32.536Z"
+    },
+    {
+        "tld": ".clinic",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:33.523Z"
+    },
+    {
+        "tld": ".clothing",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:34.613Z"
+    },
+    {
+        "tld": ".cloud",
+        "currency": "USD",
+        "register": 3.49,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:35.610Z"
+    },
+    {
+        "tld": ".club",
+        "currency": "USD",
+        "register": 3.82,
+        "renew": 15.78,
+        "transfer": 15.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.78,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:36.564Z"
+    },
+    {
+        "tld": ".cn.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:37.429Z"
+    },
+    {
+        "tld": ".co",
+        "currency": "USD",
+        "register": 9.32,
+        "renew": 25.98,
+        "transfer": 25.98,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 25.98,
+        "promotions": [
+            "auto-co-10-03-25"
+        ],
+        "last_updated": "2026-06-01T21:21:38.557Z"
+    },
+    {
+        "tld": ".co.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:39.412Z"
+    },
+    {
+        "tld": ".co.im",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:40.409Z"
+    },
+    {
+        "tld": ".co.in",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:41.399Z"
+    },
+    {
+        "tld": ".co.uk",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:42.421Z"
+    },
+    {
+        "tld": ".coach",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 62.3,
+        "transfer": 62.1,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 62.3,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:43.598Z"
+    },
+    {
+        "tld": ".codes",
+        "currency": "USD",
+        "register": 3.31,
+        "renew": 57.13,
+        "transfer": 56.93,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 57.13,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:44.932Z"
+    },
+    {
+        "tld": ".coffee",
+        "currency": "USD",
+        "register": 12.62,
+        "renew": 34.36,
+        "transfer": 34.16,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 34.36,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:46.591Z"
+    },
+    {
+        "tld": ".college",
+        "currency": "USD",
+        "register": 4.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:47.611Z"
+    },
+    {
+        "tld": ".com",
+        "currency": "USD",
+        "register": 9.08,
+        "renew": 10.18,
+        "transfer": 9.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 9.86,
+        "promotions": [
+            "auto-com-02-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:21:48.606Z"
+    },
+    {
+        "tld": ".com.co",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:49.409Z"
+    },
+    {
+        "tld": ".com.de",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:50.408Z"
+    },
+    {
+        "tld": ".com.im",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:51.401Z"
+    },
+    {
+        "tld": ".com.se",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:52.418Z"
+    },
+    {
+        "tld": ".community",
+        "currency": "USD",
+        "register": 36.43,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:53.588Z"
+    },
+    {
+        "tld": ".company",
+        "currency": "USD",
+        "register": 16.76,
+        "renew": 16.76,
+        "transfer": 16.56,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:54.609Z"
+    },
+    {
+        "tld": ".compare",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:55.569Z"
+    },
+    {
+        "tld": ".computer",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:56.593Z"
+    },
+    {
+        "tld": ".condos",
+        "currency": "USD",
+        "register": 46.78,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:57.623Z"
+    },
+    {
+        "tld": ".construction",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:21:58.594Z"
+    },
+    {
+        "tld": ".consulting",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 43.67,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:21:59.698Z"
+    },
+    {
+        "tld": ".contact",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 11.59,
+        "transfer": 11.39,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:00.581Z"
+    },
+    {
+        "tld": ".contractors",
+        "currency": "USD",
+        "register": 28.15,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:01.748Z"
+    },
+    {
+        "tld": ".cooking",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:02.593Z"
+    },
+    {
+        "tld": ".cool",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 36.43,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:03.578Z"
+    },
+    {
+        "tld": ".country",
+        "currency": "USD",
+        "register": 2064.2,
+        "renew": 2064.2,
+        "transfer": 2064,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:04.606Z"
+    },
+    {
+        "tld": ".coupons",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 43.67,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:05.613Z"
+    },
+    {
+        "tld": ".courses",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 31.28,
+        "transfer": 31.08,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.28,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:22:06.675Z"
+    },
+    {
+        "tld": ".credit",
+        "currency": "USD",
+        "register": 8.48,
+        "renew": 83,
+        "transfer": 82.8,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:07.567Z"
+    },
+    {
+        "tld": ".creditcard",
+        "currency": "USD",
+        "register": 129.2,
+        "renew": 129.2,
+        "transfer": 129,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:08.602Z"
+    },
+    {
+        "tld": ".cricket",
+        "currency": "USD",
+        "register": 20.88,
+        "renew": 20.88,
+        "transfer": 20.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:09.600Z"
+    },
+    {
+        "tld": ".cruises",
+        "currency": "USD",
+        "register": 44.71,
+        "renew": 44.71,
+        "transfer": 44.51,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:10.682Z"
+    },
+    {
+        "tld": ".cv",
+        "currency": "USD",
+        "register": 7.98,
+        "renew": 7.98,
+        "transfer": 7.98,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:11.533Z"
+    },
+    {
+        "tld": ".cymru",
+        "currency": "USD",
+        "register": 10.6,
+        "renew": 10.6,
+        "transfer": 10.4,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:12.532Z"
+    },
+    {
+        "tld": ".cyou",
+        "currency": "USD",
+        "register": 0.81,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.73,
+        "promotions": [
+            "auto-shortdot-02-04-26"
+        ],
+        "last_updated": "2026-06-01T21:22:13.596Z"
+    },
+    {
+        "tld": ".dad",
+        "currency": "USD",
+        "register": 10.52,
+        "renew": 10.52,
+        "transfer": 10.32,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:14.376Z"
+    },
+    {
+        "tld": ".dance",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:15.127Z"
+    },
+    {
+        "tld": ".date",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:15.872Z"
+    },
+    {
+        "tld": ".dating",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:16.618Z"
+    },
+    {
+        "tld": ".day",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:17.360Z"
+    },
+    {
+        "tld": ".de",
+        "currency": "USD",
+        "register": 3.95,
+        "renew": 3.95,
+        "transfer": 3.95,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:18.044Z"
+    },
+    {
+        "tld": ".de.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:18.593Z"
+    },
+    {
+        "tld": ".deal",
+        "currency": "USD",
+        "register": 22.98,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:22:19.385Z"
+    },
+    {
+        "tld": ".dealer",
+        "currency": "USD",
+        "register": 258.95,
+        "renew": 2052.9,
+        "transfer": 2052.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 2052.9,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:20.060Z"
+    },
+    {
+        "tld": ".deals",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:20.840Z"
+    },
+    {
+        "tld": ".degree",
+        "currency": "USD",
+        "register": 41.6,
+        "renew": 41.6,
+        "transfer": 41.4,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:21.588Z"
+    },
+    {
+        "tld": ".delivery",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 49.88,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:22.331Z"
+    },
+    {
+        "tld": ".democrat",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:23.191Z"
+    },
+    {
+        "tld": ".dental",
+        "currency": "USD",
+        "register": 62.3,
+        "renew": 62.3,
+        "transfer": 62.1,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:23.875Z"
+    },
+    {
+        "tld": ".dentist",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:24.659Z"
+    },
+    {
+        "tld": ".design",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 46.78,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:25.414Z"
+    },
+    {
+        "tld": ".dev",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 12.62,
+        "transfer": 12.42,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.62,
+        "promotions": [
+            "auto-google-01-01-26"
+        ],
+        "last_updated": "2026-06-01T21:22:26.124Z"
+    },
+    {
+        "tld": ".diamonds",
+        "currency": "USD",
+        "register": 43.67,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:26.867Z"
+    },
+    {
+        "tld": ".diet",
+        "currency": "USD",
+        "register": 93.35,
+        "renew": 103.4,
+        "transfer": 103.2,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.4,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:27.870Z"
+    },
+    {
+        "tld": ".digital",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:28.857Z"
+    },
+    {
+        "tld": ".direct",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:29.560Z"
+    },
+    {
+        "tld": ".directory",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:30.322Z"
+    },
+    {
+        "tld": ".discount",
+        "currency": "USD",
+        "register": 24.01,
+        "renew": 24.01,
+        "transfer": 23.81,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:31.032Z"
+    },
+    {
+        "tld": ".diy",
+        "currency": "USD",
+        "register": 4.35,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:31.779Z"
+    },
+    {
+        "tld": ".doctor",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 93.35,
+        "transfer": 93.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 93.35,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:32.534Z"
+    },
+    {
+        "tld": ".dog",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:33.274Z"
+    },
+    {
+        "tld": ".domains",
+        "currency": "USD",
+        "register": 34.36,
+        "renew": 34.36,
+        "transfer": 34.16,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:34.243Z"
+    },
+    {
+        "tld": ".download",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:34.969Z"
+    },
+    {
+        "tld": ".eco",
+        "currency": "USD",
+        "register": 59.71,
+        "renew": 59.71,
+        "transfer": 59.51,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:35.707Z"
+    },
+    {
+        "tld": ".education",
+        "currency": "USD",
+        "register": 28.15,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:36.436Z"
+    },
+    {
+        "tld": ".email",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:37.167Z"
+    },
+    {
+        "tld": ".energy",
+        "currency": "USD",
+        "register": 10.03,
+        "renew": 93.35,
+        "transfer": 93.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 93.35,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:37.904Z"
+    },
+    {
+        "tld": ".engineer",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:38.639Z"
+    },
+    {
+        "tld": ".engineering",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:39.401Z"
+    },
+    {
+        "tld": ".enterprises",
+        "currency": "USD",
+        "register": 8.48,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.15,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:40.141Z"
+    },
+    {
+        "tld": ".equipment",
+        "currency": "USD",
+        "register": 22.97,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:40.973Z"
+    },
+    {
+        "tld": ".esq",
+        "currency": "USD",
+        "register": 20.84,
+        "renew": 20.84,
+        "transfer": 20.64,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:41.721Z"
+    },
+    {
+        "tld": ".estate",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:42.435Z"
+    },
+    {
+        "tld": ".eu",
+        "currency": "USD",
+        "register": 5.68,
+        "renew": 5.68,
+        "transfer": 5.68,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:43.136Z"
+    },
+    {
+        "tld": ".eu.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:43.684Z"
+    },
+    {
+        "tld": ".events",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 36.43,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:44.694Z"
+    },
+    {
+        "tld": ".exchange",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:45.573Z"
+    },
+    {
+        "tld": ".expert",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 49.88,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:46.348Z"
+    },
+    {
+        "tld": ".exposed",
+        "currency": "USD",
+        "register": 17.8,
+        "renew": 17.8,
+        "transfer": 17.6,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:47.077Z"
+    },
+    {
+        "tld": ".express",
+        "currency": "USD",
+        "register": 9,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:47.771Z"
+    },
+    {
+        "tld": ".fail",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:48.552Z"
+    },
+    {
+        "tld": ".faith",
+        "currency": "USD",
+        "register": 10.53,
+        "renew": 10.53,
+        "transfer": 10.33,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:49.325Z"
+    },
+    {
+        "tld": ".family",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:50.100Z"
+    },
+    {
+        "tld": ".fan",
+        "currency": "USD",
+        "register": 43.67,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:50.797Z"
+    },
+    {
+        "tld": ".fans",
+        "currency": "USD",
+        "register": 4.18,
+        "renew": 8.46,
+        "transfer": 8.26,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 8.46,
+        "promotions": [
+            "auto-fans-05-18-26"
+        ],
+        "last_updated": "2026-06-01T21:22:51.517Z"
+    },
+    {
+        "tld": ".farm",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:52.282Z"
+    },
+    {
+        "tld": ".fashion",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:53.031Z"
+    },
+    {
+        "tld": ".fast",
+        "currency": "USD",
+        "register": 17.98,
+        "renew": 23.49,
+        "transfer": 23.29,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 23.49,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:22:53.696Z"
+    },
+    {
+        "tld": ".feedback",
+        "currency": "USD",
+        "register": 9,
+        "renew": 310.7,
+        "transfer": 310.5,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 310.7,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:54.443Z"
+    },
+    {
+        "tld": ".finance",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:55.219Z"
+    },
+    {
+        "tld": ".financial",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 46.78,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:56.110Z"
+    },
+    {
+        "tld": ".fish",
+        "currency": "USD",
+        "register": 36.43,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:56.959Z"
+    },
+    {
+        "tld": ".fishing",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:22:57.746Z"
+    },
+    {
+        "tld": ".fit",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:58.458Z"
+    },
+    {
+        "tld": ".fitness",
+        "currency": "USD",
+        "register": 3.82,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:59.197Z"
+    },
+    {
+        "tld": ".flights",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 46.78,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:22:59.940Z"
+    },
+    {
+        "tld": ".florist",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:00.657Z"
+    },
+    {
+        "tld": ".flowers",
+        "currency": "USD",
+        "register": 93.35,
+        "renew": 103.4,
+        "transfer": 103.2,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.4,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:01.415Z"
+    },
+    {
+        "tld": ".fm",
+        "currency": "USD",
+        "register": 67.98,
+        "renew": 87.72,
+        "transfer": 87.72,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 87.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:02.263Z"
+    },
+    {
+        "tld": ".foo",
+        "currency": "USD",
+        "register": 10.52,
+        "renew": 10.52,
+        "transfer": 10.32,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:02.967Z"
+    },
+    {
+        "tld": ".food",
+        "currency": "USD",
+        "register": 4.35,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:03.743Z"
+    },
+    {
+        "tld": ".football",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:04.499Z"
+    },
+    {
+        "tld": ".forex",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 83,
+        "transfer": 82.8,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:05.242Z"
+    },
+    {
+        "tld": ".forsale",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:06.127Z"
+    },
+    {
+        "tld": ".forum",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 31.16,
+        "transfer": 30.96,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.16,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:06.860Z"
+    },
+    {
+        "tld": ".foundation",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 22.39,
+        "transfer": 22.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.39,
+        "promotions": [
+            "auto_gives_foundation_2025"
+        ],
+        "last_updated": "2026-06-01T21:23:07.718Z"
+    },
+    {
+        "tld": ".free",
+        "currency": "USD",
+        "register": 22.98,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:23:08.430Z"
+    },
+    {
+        "tld": ".fun",
+        "currency": "USD",
+        "register": 1.73,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-radix-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:23:09.205Z"
+    },
+    {
+        "tld": ".fund",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 57.13,
+        "transfer": 56.93,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 57.13,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:09.934Z"
+    },
+    {
+        "tld": ".furniture",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 82.76,
+        "transfer": 82.56,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 82.76,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:10.720Z"
+    },
+    {
+        "tld": ".futbol",
+        "currency": "USD",
+        "register": 13.66,
+        "renew": 13.66,
+        "transfer": 13.46,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:11.475Z"
+    },
+    {
+        "tld": ".fyi",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 5.38,
+        "transfer": 5.18,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:12.186Z"
+    },
+    {
+        "tld": ".gallery",
+        "currency": "USD",
+        "register": 22.97,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:12.975Z"
+    },
+    {
+        "tld": ".game",
+        "currency": "USD",
+        "register": 279.65,
+        "renew": 309.8,
+        "transfer": 309.6,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 309.8,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:13.713Z"
+    },
+    {
+        "tld": ".games",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 27.11,
+        "transfer": 26.91,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 27.11,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:14.472Z"
+    },
+    {
+        "tld": ".garden",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:23:15.388Z"
+    },
+    {
+        "tld": ".gay",
+        "currency": "USD",
+        "register": 2.79,
+        "renew": 31.28,
+        "transfer": 31.08,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.28,
+        "promotions": [
+            "auto-june-promos-06-01-26"
+        ],
+        "last_updated": "2026-06-01T21:23:16.154Z"
+    },
+    {
+        "tld": ".gb.net",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:16.716Z"
+    },
+    {
+        "tld": ".gg",
+        "currency": "USD",
+        "register": 51.6,
+        "renew": 51.6,
+        "transfer": 51.6,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:17.390Z"
+    },
+    {
+        "tld": ".gifts",
+        "currency": "USD",
+        "register": 29.18,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:18.100Z"
+    },
+    {
+        "tld": ".gives",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 22.39,
+        "transfer": 22.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.39,
+        "promotions": [
+            "auto_gives_foundation_2025"
+        ],
+        "last_updated": "2026-06-01T21:23:18.850Z"
+    },
+    {
+        "tld": ".giving",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 22.39,
+        "transfer": 22.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.39,
+        "promotions": [
+            "auto_gives_foundation_2025"
+        ],
+        "last_updated": "2026-06-01T21:23:19.597Z"
+    },
+    {
+        "tld": ".glass",
+        "currency": "USD",
+        "register": 58.16,
+        "renew": 58.16,
+        "transfer": 57.96,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:20.333Z"
+    },
+    {
+        "tld": ".global",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 77.83,
+        "transfer": 77.63,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 77.83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:21.100Z"
+    },
+    {
+        "tld": ".gmbh",
+        "currency": "USD",
+        "register": 36.43,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:21.866Z"
+    },
+    {
+        "tld": ".gold",
+        "currency": "USD",
+        "register": 6.93,
+        "renew": 83,
+        "transfer": 82.8,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:22.583Z"
+    },
+    {
+        "tld": ".golf",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:23.360Z"
+    },
+    {
+        "tld": ".gr.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:23.900Z"
+    },
+    {
+        "tld": ".graphics",
+        "currency": "USD",
+        "register": 18.83,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:24.629Z"
+    },
+    {
+        "tld": ".gratis",
+        "currency": "USD",
+        "register": 18.83,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:25.441Z"
+    },
+    {
+        "tld": ".green",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 64.37,
+        "transfer": 64.17,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 64.37,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:26.171Z"
+    },
+    {
+        "tld": ".gripe",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 5.38,
+        "transfer": 5.18,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:26.913Z"
+    },
+    {
+        "tld": ".group",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:27.689Z"
+    },
+    {
+        "tld": ".guide",
+        "currency": "USD",
+        "register": 33.32,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:28.430Z"
+    },
+    {
+        "tld": ".guitars",
+        "currency": "USD",
+        "register": 93.35,
+        "renew": 103.4,
+        "transfer": 103.2,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.4,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:29.102Z"
+    },
+    {
+        "tld": ".guru",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 34.36,
+        "transfer": 34.16,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 34.36,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:29.885Z"
+    },
+    {
+        "tld": ".hair",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:30.597Z"
+    },
+    {
+        "tld": ".haus",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 27.11,
+        "transfer": 26.91,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 27.11,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:31.326Z"
+    },
+    {
+        "tld": ".health",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 62.38,
+        "transfer": 62.18,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 62.38,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:32.038Z"
+    },
+    {
+        "tld": ".healthcare",
+        "currency": "USD",
+        "register": 70.58,
+        "renew": 70.58,
+        "transfer": 70.38,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:32.790Z"
+    },
+    {
+        "tld": ".help",
+        "currency": "USD",
+        "register": 2.3,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:33.562Z"
+    },
+    {
+        "tld": ".hiphop",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:34.304Z"
+    },
+    {
+        "tld": ".hiv",
+        "currency": "USD",
+        "register": 184.9,
+        "renew": 184.9,
+        "transfer": 184.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:35.085Z"
+    },
+    {
+        "tld": ".hockey",
+        "currency": "USD",
+        "register": 47.81,
+        "renew": 47.81,
+        "transfer": 47.61,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:35.869Z"
+    },
+    {
+        "tld": ".holdings",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:36.614Z"
+    },
+    {
+        "tld": ".holiday",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:37.391Z"
+    },
+    {
+        "tld": ".homes",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:38.148Z"
+    },
+    {
+        "tld": ".horse",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:38.879Z"
+    },
+    {
+        "tld": ".hospital",
+        "currency": "USD",
+        "register": 45.74,
+        "renew": 45.74,
+        "transfer": 45.54,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:39.622Z"
+    },
+    {
+        "tld": ".host",
+        "currency": "USD",
+        "register": 9.19,
+        "renew": 81.97,
+        "transfer": 81.77,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 81.97,
+        "promotions": [
+            "auto-radix-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:23:40.327Z"
+    },
+    {
+        "tld": ".hosting",
+        "currency": "USD",
+        "register": 279.65,
+        "renew": 309.8,
+        "transfer": 309.6,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 309.8,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:41.175Z"
+    },
+    {
+        "tld": ".hot",
+        "currency": "USD",
+        "register": 26.98,
+        "renew": 41.6,
+        "transfer": 41.4,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 41.6,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:23:41.950Z"
+    },
+    {
+        "tld": ".house",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 35.39,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:42.757Z"
+    },
+    {
+        "tld": ".how",
+        "currency": "USD",
+        "register": 20.84,
+        "renew": 20.84,
+        "transfer": 20.64,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:43.520Z"
+    },
+    {
+        "tld": ".hu.net",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:44.065Z"
+    },
+    {
+        "tld": ".icu",
+        "currency": "USD",
+        "register": 2.26,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.73,
+        "promotions": [
+            "auto-shortdot-1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:44.857Z"
+    },
+    {
+        "tld": ".id",
+        "currency": "USD",
+        "register": 18.11,
+        "renew": 18.11,
+        "transfer": 18.11,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:45.780Z"
+    },
+    {
+        "tld": ".im",
+        "currency": "USD",
+        "register": 4.18,
+        "renew": 6.73,
+        "transfer": 6.73,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 6.73,
+        "promotions": [
+            "auto-im-11-01-25"
+        ],
+        "last_updated": "2026-06-01T21:23:46.511Z"
+    },
+    {
+        "tld": ".immo",
+        "currency": "USD",
+        "register": 28.15,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:47.274Z"
+    },
+    {
+        "tld": ".immobilien",
+        "currency": "USD",
+        "register": 30.22,
+        "renew": 30.22,
+        "transfer": 30.02,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:47.993Z"
+    },
+    {
+        "tld": ".in",
+        "currency": "USD",
+        "register": 5.97,
+        "renew": 19.43,
+        "transfer": 5.97,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:48.641Z"
+    },
+    {
+        "tld": ".in.net",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:49.200Z"
+    },
+    {
+        "tld": ".inc",
+        "currency": "USD",
+        "register": 258.95,
+        "renew": 2059.5,
+        "transfer": 2059.3,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 2059.5,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:49.981Z"
+    },
+    {
+        "tld": ".industries",
+        "currency": "USD",
+        "register": 36.43,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:50.803Z"
+    },
+    {
+        "tld": ".info",
+        "currency": "USD",
+        "register": 3.31,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:51.494Z"
+    },
+    {
+        "tld": ".ing",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:52.273Z"
+    },
+    {
+        "tld": ".ink",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:53.027Z"
+    },
+    {
+        "tld": ".institute",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:53.759Z"
+    },
+    {
+        "tld": ".insure",
+        "currency": "USD",
+        "register": 58.16,
+        "renew": 58.16,
+        "transfer": 57.96,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:54.521Z"
+    },
+    {
+        "tld": ".international",
+        "currency": "USD",
+        "register": 8.48,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:55.252Z"
+    },
+    {
+        "tld": ".investments",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 103.7,
+        "transfer": 103.5,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.7,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:56.084Z"
+    },
+    {
+        "tld": ".io",
+        "currency": "USD",
+        "register": 31.98,
+        "renew": 51.75,
+        "transfer": 51.75,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 51.75,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:56.738Z"
+    },
+    {
+        "tld": ".irish",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 17.8,
+        "transfer": 17.6,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 17.8,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:23:57.531Z"
+    },
+    {
+        "tld": ".it.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:58.092Z"
+    },
+    {
+        "tld": ".je",
+        "currency": "USD",
+        "register": 51.6,
+        "renew": 51.6,
+        "transfer": 51.6,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:59.119Z"
+    },
+    {
+        "tld": ".jetz",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:23:59.666Z"
+    },
+    {
+        "tld": ".jetzt",
+        "currency": "USD",
+        "register": 18.83,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:00.438Z"
+    },
+    {
+        "tld": ".jewelry",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:01.157Z"
+    },
+    {
+        "tld": ".jp.net",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:01.719Z"
+    },
+    {
+        "tld": ".jpn.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:02.263Z"
+    },
+    {
+        "tld": ".kaufen",
+        "currency": "USD",
+        "register": 23.94,
+        "renew": 23.94,
+        "transfer": 23.74,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:03.009Z"
+    },
+    {
+        "tld": ".kids",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 18.83,
+        "promotions": [
+            "auto-kids-01-01-26"
+        ],
+        "last_updated": "2026-06-01T21:24:03.747Z"
+    },
+    {
+        "tld": ".kim",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 18.83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:04.477Z"
+    },
+    {
+        "tld": ".kitchen",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:05.202Z"
+    },
+    {
+        "tld": ".land",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:05.930Z"
+    },
+    {
+        "tld": ".lat",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:06.604Z"
+    },
+    {
+        "tld": ".law",
+        "currency": "USD",
+        "register": 83,
+        "renew": 83,
+        "transfer": 82.8,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:07.503Z"
+    },
+    {
+        "tld": ".lawyer",
+        "currency": "USD",
+        "register": 49.88,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:08.268Z"
+    },
+    {
+        "tld": ".lease",
+        "currency": "USD",
+        "register": 44.71,
+        "renew": 44.71,
+        "transfer": 44.51,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:08.977Z"
+    },
+    {
+        "tld": ".legal",
+        "currency": "USD",
+        "register": 57.13,
+        "renew": 57.13,
+        "transfer": 56.93,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:09.701Z"
+    },
+    {
+        "tld": ".lgbt",
+        "currency": "USD",
+        "register": 7.45,
+        "renew": 64.37,
+        "transfer": 64.17,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 64.37,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:10.426Z"
+    },
+    {
+        "tld": ".life",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:11.164Z"
+    },
+    {
+        "tld": ".lifestyle",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:11.927Z"
+    },
+    {
+        "tld": ".lighting",
+        "currency": "USD",
+        "register": 18.83,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:12.689Z"
+    },
+    {
+        "tld": ".limited",
+        "currency": "USD",
+        "register": 29.18,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:13.644Z"
+    },
+    {
+        "tld": ".limo",
+        "currency": "USD",
+        "register": 43.67,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:14.494Z"
+    },
+    {
+        "tld": ".link",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 7.45,
+        "transfer": 7.25,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 7.45,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:15.220Z"
+    },
+    {
+        "tld": ".live",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:15.894Z"
+    },
+    {
+        "tld": ".living",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:16.631Z"
+    },
+    {
+        "tld": ".llc",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 34.36,
+        "transfer": 34.16,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 34.36,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:17.346Z"
+    },
+    {
+        "tld": ".loan",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:18.127Z"
+    },
+    {
+        "tld": ".loans",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 93.35,
+        "transfer": 93.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 93.35,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:18.936Z"
+    },
+    {
+        "tld": ".locker",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-locker-01-01-26"
+        ],
+        "last_updated": "2026-06-01T21:24:19.676Z"
+    },
+    {
+        "tld": ".lol",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:20.434Z"
+    },
+    {
+        "tld": ".london",
+        "currency": "USD",
+        "register": 10.18,
+        "renew": 28.2,
+        "transfer": 28,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.2,
+        "promotions": [
+            "auto-london-04-28-26"
+        ],
+        "last_updated": "2026-06-01T21:24:21.180Z"
+    },
+    {
+        "tld": ".lotto",
+        "currency": "USD",
+        "register": 1500.95,
+        "renew": 1500.95,
+        "transfer": 1500.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:21.934Z"
+    },
+    {
+        "tld": ".love",
+        "currency": "USD",
+        "register": 4.88,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.97,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:22.670Z"
+    },
+    {
+        "tld": ".ltd",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:23.473Z"
+    },
+    {
+        "tld": ".luxe",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:24.217Z"
+    },
+    {
+        "tld": ".luxury",
+        "currency": "USD",
+        "register": 26,
+        "renew": 26,
+        "transfer": 25.8,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:25.001Z"
+    },
+    {
+        "tld": ".maison",
+        "currency": "USD",
+        "register": 45.74,
+        "renew": 45.74,
+        "transfer": 45.54,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:25.769Z"
+    },
+    {
+        "tld": ".makeup",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:26.523Z"
+    },
+    {
+        "tld": ".management",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:27.268Z"
+    },
+    {
+        "tld": ".market",
+        "currency": "USD",
+        "register": 35.39,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:28.160Z"
+    },
+    {
+        "tld": ".marketing",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:29.053Z"
+    },
+    {
+        "tld": ".markets",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.73,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:29.935Z"
+    },
+    {
+        "tld": ".mba",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:30.681Z"
+    },
+    {
+        "tld": ".me",
+        "currency": "USD",
+        "register": 8.7,
+        "renew": 15.53,
+        "transfer": 15.53,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 15.53,
+        "promotions": [
+            "auto-me-01-01-26"
+        ],
+        "last_updated": "2026-06-01T21:24:31.542Z"
+    },
+    {
+        "tld": ".me.uk",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:32.098Z"
+    },
+    {
+        "tld": ".media",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 36.43,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:32.826Z"
+    },
+    {
+        "tld": ".meme",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:33.669Z"
+    },
+    {
+        "tld": ".memorial",
+        "currency": "USD",
+        "register": 41.6,
+        "renew": 41.6,
+        "transfer": 41.4,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:34.460Z"
+    },
+    {
+        "tld": ".men",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:35.249Z"
+    },
+    {
+        "tld": ".mex.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:35.807Z"
+    },
+    {
+        "tld": ".miami",
+        "currency": "USD",
+        "register": 18.88,
+        "renew": 18.88,
+        "transfer": 18.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:36.558Z"
+    },
+    {
+        "tld": ".mobi",
+        "currency": "USD",
+        "register": 3.82,
+        "renew": 41.6,
+        "transfer": 41.4,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 41.6,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:37.348Z"
+    },
+    {
+        "tld": ".mobile",
+        "currency": "USD",
+        "register": 15.73,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:38.231Z"
+    },
+    {
+        "tld": ".moda",
+        "currency": "USD",
+        "register": 33.32,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:39.057Z"
+    },
+    {
+        "tld": ".mom",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26,
+        "transfer": 25.8,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:39.798Z"
+    },
+    {
+        "tld": ".money",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.15,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:40.514Z"
+    },
+    {
+        "tld": ".monster",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:41.243Z"
+    },
+    {
+        "tld": ".mortgage",
+        "currency": "USD",
+        "register": 49.88,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:42.047Z"
+    },
+    {
+        "tld": ".motorcycles",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:42.758Z"
+    },
+    {
+        "tld": ".mov",
+        "currency": "USD",
+        "register": 10.52,
+        "renew": 10.52,
+        "transfer": 10.32,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:43.532Z"
+    },
+    {
+        "tld": ".movie",
+        "currency": "USD",
+        "register": 36.43,
+        "renew": 279.65,
+        "transfer": 279.45,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 279.65,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:44.305Z"
+    },
+    {
+        "tld": ".music",
+        "currency": "USD",
+        "register": 38.5,
+        "renew": 38.5,
+        "transfer": 38.3,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:45.038Z"
+    },
+    {
+        "tld": ".my",
+        "currency": "USD",
+        "register": 2.28,
+        "renew": 25.88,
+        "transfer": 25.88,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 25.88,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:45.837Z"
+    },
+    {
+        "tld": ".navy",
+        "currency": "USD",
+        "register": 33.32,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:46.601Z"
+    },
+    {
+        "tld": ".net",
+        "currency": "USD",
+        "register": 11.4,
+        "renew": 11.4,
+        "transfer": 11.2,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:47.288Z"
+    },
+    {
+        "tld": ".net.im",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:47.834Z"
+    },
+    {
+        "tld": ".network",
+        "currency": "USD",
+        "register": 5.89,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.15,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:48.912Z"
+    },
+    {
+        "tld": ".new",
+        "currency": "USD",
+        "register": 412.2,
+        "renew": 412.2,
+        "transfer": 412,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:49.781Z"
+    },
+    {
+        "tld": ".news",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:50.591Z"
+    },
+    {
+        "tld": ".nexus",
+        "currency": "USD",
+        "register": 10.52,
+        "renew": 10.52,
+        "transfer": 10.32,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:51.307Z"
+    },
+    {
+        "tld": ".ninja",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:52.042Z"
+    },
+    {
+        "tld": ".now",
+        "currency": "USD",
+        "register": 22.98,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:24:52.801Z"
+    },
+    {
+        "tld": ".nyc",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-june-promos-06-01-26"
+        ],
+        "last_updated": "2026-06-01T21:24:53.577Z"
+    },
+    {
+        "tld": ".observer",
+        "currency": "USD",
+        "register": 9.49,
+        "renew": 9.49,
+        "transfer": 9.29,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:54.334Z"
+    },
+    {
+        "tld": ".one",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 19.87,
+        "transfer": 19.67,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 19.87,
+        "promotions": [
+            "auto-one-01-01-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:55.067Z"
+    },
+    {
+        "tld": ".online",
+        "currency": "USD",
+        "register": 1.18,
+        "renew": 20.18,
+        "transfer": 19.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.66,
+        "promotions": [
+            "auto-online-special-2024"
+        ],
+        "last_updated": "2026-06-01T21:24:55.742Z"
+    },
+    {
+        "tld": ".org",
+        "currency": "USD",
+        "register": 7.98,
+        "renew": 11.59,
+        "transfer": 11.39,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 11.59,
+        "promotions": [
+            "auto_ORG_2023"
+        ],
+        "last_updated": "2026-06-01T21:24:56.439Z"
+    },
+    {
+        "tld": ".org.im",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:57.021Z"
+    },
+    {
+        "tld": ".org.uk",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:57.571Z"
+    },
+    {
+        "tld": ".page",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:24:58.345Z"
+    },
+    {
+        "tld": ".partners",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 57.13,
+        "transfer": 56.93,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 57.13,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:59.193Z"
+    },
+    {
+        "tld": ".parts",
+        "currency": "USD",
+        "register": 9.52,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:24:59.947Z"
+    },
+    {
+        "tld": ".party",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:00.673Z"
+    },
+    {
+        "tld": ".pet",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:01.434Z"
+    },
+    {
+        "tld": ".phd",
+        "currency": "USD",
+        "register": 20.84,
+        "renew": 20.84,
+        "transfer": 20.64,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:02.165Z"
+    },
+    {
+        "tld": ".photo",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:02.974Z"
+    },
+    {
+        "tld": ".photography",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:03.745Z"
+    },
+    {
+        "tld": ".photos",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 24.01,
+        "transfer": 23.81,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 24.01,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:04.490Z"
+    },
+    {
+        "tld": ".pics",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:05.212Z"
+    },
+    {
+        "tld": ".pictures",
+        "currency": "USD",
+        "register": 12.62,
+        "renew": 12.62,
+        "transfer": 12.42,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:06.071Z"
+    },
+    {
+        "tld": ".pink",
+        "currency": "USD",
+        "register": 5.89,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:06.808Z"
+    },
+    {
+        "tld": ".pizza",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:07.759Z"
+    },
+    {
+        "tld": ".place",
+        "currency": "USD",
+        "register": 17.8,
+        "renew": 17.8,
+        "transfer": 17.6,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:08.526Z"
+    },
+    {
+        "tld": ".plumbing",
+        "currency": "USD",
+        "register": 58.16,
+        "renew": 58.16,
+        "transfer": 57.96,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:09.226Z"
+    },
+    {
+        "tld": ".plus",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 43.67,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:09.950Z"
+    },
+    {
+        "tld": ".poker",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 54.02,
+        "transfer": 53.82,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 54.02,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:10.729Z"
+    },
+    {
+        "tld": ".porn",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 98.53,
+        "transfer": 98.33,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 98.53,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:25:11.457Z"
+    },
+    {
+        "tld": ".press",
+        "currency": "USD",
+        "register": 9.19,
+        "renew": 64.37,
+        "transfer": 64.17,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 64.37,
+        "promotions": [
+            "auto-radix-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:25:12.179Z"
+    },
+    {
+        "tld": ".pro",
+        "currency": "USD",
+        "register": 2.79,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:12.816Z"
+    },
+    {
+        "tld": ".productions",
+        "currency": "USD",
+        "register": 5.89,
+        "renew": 32.29,
+        "transfer": 32.09,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 32.29,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:13.558Z"
+    },
+    {
+        "tld": ".prof",
+        "currency": "USD",
+        "register": 20.84,
+        "renew": 20.84,
+        "transfer": 20.64,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:14.279Z"
+    },
+    {
+        "tld": ".promo",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 19.87,
+        "transfer": 19.67,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 19.87,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:15.003Z"
+    },
+    {
+        "tld": ".properties",
+        "currency": "USD",
+        "register": 14.17,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:15.743Z"
+    },
+    {
+        "tld": ".property",
+        "currency": "USD",
+        "register": 17.8,
+        "renew": 103.7,
+        "transfer": 103.5,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 103.7,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:16.517Z"
+    },
+    {
+        "tld": ".protection",
+        "currency": "USD",
+        "register": 2064.2,
+        "renew": 2064.2,
+        "transfer": 2064,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:17.304Z"
+    },
+    {
+        "tld": ".pub",
+        "currency": "USD",
+        "register": 32.29,
+        "renew": 32.29,
+        "transfer": 32.09,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:18.073Z"
+    },
+    {
+        "tld": ".pw",
+        "currency": "USD",
+        "register": 6.29,
+        "renew": 18.11,
+        "transfer": 18.11,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 18.11,
+        "promotions": [
+            "auto-radix-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:25:18.829Z"
+    },
+    {
+        "tld": ".quest",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:19.499Z"
+    },
+    {
+        "tld": ".racing",
+        "currency": "USD",
+        "register": 10.53,
+        "renew": 10.53,
+        "transfer": 10.33,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:20.289Z"
+    },
+    {
+        "tld": ".realty",
+        "currency": "USD",
+        "register": 88.18,
+        "renew": 289.16,
+        "transfer": 288.96,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 289.16,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:21.036Z"
+    },
+    {
+        "tld": ".recipes",
+        "currency": "USD",
+        "register": 4.86,
+        "renew": 62.3,
+        "transfer": 62.1,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 62.3,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:21.755Z"
+    },
+    {
+        "tld": ".red",
+        "currency": "USD",
+        "register": 8.48,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 18.83,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:22.480Z"
+    },
+    {
+        "tld": ".rehab",
+        "currency": "USD",
+        "register": 29.18,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:23.273Z"
+    },
+    {
+        "tld": ".reise",
+        "currency": "USD",
+        "register": 77.83,
+        "renew": 77.83,
+        "transfer": 77.63,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:24.095Z"
+    },
+    {
+        "tld": ".reisen",
+        "currency": "USD",
+        "register": 16.76,
+        "renew": 16.76,
+        "transfer": 16.56,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:24.862Z"
+    },
+    {
+        "tld": ".rent",
+        "currency": "USD",
+        "register": 4.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:25.582Z"
+    },
+    {
+        "tld": ".rentals",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 35.39,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:26.395Z"
+    },
+    {
+        "tld": ".repair",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:27.168Z"
+    },
+    {
+        "tld": ".report",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 19.87,
+        "transfer": 19.67,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 19.87,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:27.909Z"
+    },
+    {
+        "tld": ".republican",
+        "currency": "USD",
+        "register": 26,
+        "renew": 26,
+        "transfer": 25.8,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:28.617Z"
+    },
+    {
+        "tld": ".rest",
+        "currency": "USD",
+        "register": 1.25,
+        "renew": 26,
+        "transfer": 25.8,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:29.410Z"
+    },
+    {
+        "tld": ".restaurant",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:30.302Z"
+    },
+    {
+        "tld": ".review",
+        "currency": "USD",
+        "register": 10.53,
+        "renew": 10.53,
+        "transfer": 10.33,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:31.021Z"
+    },
+    {
+        "tld": ".reviews",
+        "currency": "USD",
+        "register": 49.88,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:31.824Z"
+    },
+    {
+        "tld": ".rip",
+        "currency": "USD",
+        "register": 18.83,
+        "renew": 18.83,
+        "transfer": 18.63,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:32.589Z"
+    },
+    {
+        "tld": ".rocks",
+        "currency": "USD",
+        "register": 6.93,
+        "renew": 17.8,
+        "transfer": 17.6,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 17.8,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:33.336Z"
+    },
+    {
+        "tld": ".rodeo",
+        "currency": "USD",
+        "register": 10.58,
+        "renew": 10.58,
+        "transfer": 10.38,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:34.234Z"
+    },
+    {
+        "tld": ".rsvp",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 10.55,
+        "transfer": 10.35,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:35.056Z"
+    },
+    {
+        "tld": ".ru.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:35.596Z"
+    },
+    {
+        "tld": ".run",
+        "currency": "USD",
+        "register": 2.79,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:36.363Z"
+    },
+    {
+        "tld": ".sa.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:36.916Z"
+    },
+    {
+        "tld": ".sale",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:37.651Z"
+    },
+    {
+        "tld": ".salon",
+        "currency": "USD",
+        "register": 45.74,
+        "renew": 45.74,
+        "transfer": 45.54,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:38.414Z"
+    },
+    {
+        "tld": ".sarl",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 5.38,
+        "transfer": 5.18,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:39.116Z"
+    },
+    {
+        "tld": ".sbs",
+        "currency": "USD",
+        "register": 0.97,
+        "renew": 15.73,
+        "transfer": 15.53,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 15.73,
+        "promotions": [
+            "auto-shortdot-1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:39.903Z"
+    },
+    {
+        "tld": ".school",
+        "currency": "USD",
+        "register": 29.18,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:40.789Z"
+    },
+    {
+        "tld": ".schule",
+        "currency": "USD",
+        "register": 22.97,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:41.549Z"
+    },
+    {
+        "tld": ".science",
+        "currency": "USD",
+        "register": 10.53,
+        "renew": 10.53,
+        "transfer": 10.33,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:42.409Z"
+    },
+    {
+        "tld": ".se.net",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:42.972Z"
+    },
+    {
+        "tld": ".security",
+        "currency": "USD",
+        "register": 1863.2,
+        "renew": 2000.18,
+        "transfer": 1999.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 2000.18,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:43.702Z"
+    },
+    {
+        "tld": ".select",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:44.432Z"
+    },
+    {
+        "tld": ".services",
+        "currency": "USD",
+        "register": 4.86,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:45.293Z"
+    },
+    {
+        "tld": ".sex",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 98.53,
+        "transfer": 98.33,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 98.53,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:25:46.402Z"
+    },
+    {
+        "tld": ".sexy",
+        "currency": "USD",
+        "register": 2587.7,
+        "renew": 2587.7,
+        "transfer": 2587.5,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:47.113Z"
+    },
+    {
+        "tld": ".sh",
+        "currency": "USD",
+        "register": 31.05,
+        "renew": 46.58,
+        "transfer": 46.58,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 46.58,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:47.883Z"
+    },
+    {
+        "tld": ".shiksha",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 41.6,
+        "transfer": 41.4,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 41.6,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:48.885Z"
+    },
+    {
+        "tld": ".shoes",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:49.729Z"
+    },
+    {
+        "tld": ".shop",
+        "currency": "USD",
+        "register": 0.85,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:50.537Z"
+    },
+    {
+        "tld": ".shopping",
+        "currency": "USD",
+        "register": 23.18,
+        "renew": 23.18,
+        "transfer": 22.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:51.317Z"
+    },
+    {
+        "tld": ".show",
+        "currency": "USD",
+        "register": 14.17,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 35.39,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:52.093Z"
+    },
+    {
+        "tld": ".singles",
+        "currency": "USD",
+        "register": 3.31,
+        "renew": 27.11,
+        "transfer": 26.91,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 27.11,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:53.012Z"
+    },
+    {
+        "tld": ".site",
+        "currency": "USD",
+        "register": 1.18,
+        "renew": 20.18,
+        "transfer": 19.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.66,
+        "promotions": [
+            "auto-site-special-5"
+        ],
+        "last_updated": "2026-06-01T21:25:53.679Z"
+    },
+    {
+        "tld": ".ski",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:54.432Z"
+    },
+    {
+        "tld": ".skin",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:55.182Z"
+    },
+    {
+        "tld": ".soccer",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:55.910Z"
+    },
+    {
+        "tld": ".social",
+        "currency": "USD",
+        "register": 3.31,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:56.625Z"
+    },
+    {
+        "tld": ".software",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:57.414Z"
+    },
+    {
+        "tld": ".solar",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:58.208Z"
+    },
+    {
+        "tld": ".solutions",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:25:58.973Z"
+    },
+    {
+        "tld": ".soy",
+        "currency": "USD",
+        "register": 18.78,
+        "renew": 18.78,
+        "transfer": 18.58,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:25:59.712Z"
+    },
+    {
+        "tld": ".space",
+        "currency": "USD",
+        "register": 1.18,
+        "renew": 18.38,
+        "transfer": 18.18,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-space-special-5"
+        ],
+        "last_updated": "2026-06-01T21:26:00.483Z"
+    },
+    {
+        "tld": ".spot",
+        "currency": "USD",
+        "register": 15.98,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:01.194Z"
+    },
+    {
+        "tld": ".storage",
+        "currency": "USD",
+        "register": 465.95,
+        "renew": 500.2,
+        "transfer": 500,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 500.2,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:01.991Z"
+    },
+    {
+        "tld": ".store",
+        "currency": "USD",
+        "register": 1.18,
+        "renew": 30.78,
+        "transfer": 30.58,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 43.67,
+        "promotions": [
+            "auto_store_special"
+        ],
+        "last_updated": "2026-06-01T21:26:02.823Z"
+    },
+    {
+        "tld": ".stream",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:03.548Z"
+    },
+    {
+        "tld": ".studio",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 32.29,
+        "transfer": 32.09,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 32.29,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:04.326Z"
+    },
+    {
+        "tld": ".study",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 31.28,
+        "transfer": 31.08,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.28,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:05.225Z"
+    },
+    {
+        "tld": ".style",
+        "currency": "USD",
+        "register": 6.93,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:06.282Z"
+    },
+    {
+        "tld": ".supplies",
+        "currency": "USD",
+        "register": 19.87,
+        "renew": 19.87,
+        "transfer": 19.67,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:07.020Z"
+    },
+    {
+        "tld": ".supply",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:07.795Z"
+    },
+    {
+        "tld": ".support",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 21.94,
+        "transfer": 21.74,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 21.94,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:08.522Z"
+    },
+    {
+        "tld": ".surf",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:09.253Z"
+    },
+    {
+        "tld": ".surgery",
+        "currency": "USD",
+        "register": 43.67,
+        "renew": 43.67,
+        "transfer": 43.47,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:09.932Z"
+    },
+    {
+        "tld": ".systems",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 28.15,
+        "transfer": 27.95,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 28.15,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:10.721Z"
+    },
+    {
+        "tld": ".talk",
+        "currency": "USD",
+        "register": 22.98,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:11.453Z"
+    },
+    {
+        "tld": ".tattoo",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:12.267Z"
+    },
+    {
+        "tld": ".tax",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 54.02,
+        "transfer": 53.82,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 54.02,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:13.032Z"
+    },
+    {
+        "tld": ".taxi",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 49.88,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:13.788Z"
+    },
+    {
+        "tld": ".team",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:14.556Z"
+    },
+    {
+        "tld": ".tech",
+        "currency": "USD",
+        "register": 7.42,
+        "renew": 50.92,
+        "transfer": 50.72,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 50.92,
+        "promotions": [
+            "auto-radix-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:26:15.296Z"
+    },
+    {
+        "tld": ".technology",
+        "currency": "USD",
+        "register": 3.31,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.97,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:16.019Z"
+    },
+    {
+        "tld": ".tel",
+        "currency": "USD",
+        "register": 9.49,
+        "renew": 9.49,
+        "transfer": 9.29,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:16.798Z"
+    },
+    {
+        "tld": ".tennis",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:17.639Z"
+    },
+    {
+        "tld": ".theater",
+        "currency": "USD",
+        "register": 51.95,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:18.368Z"
+    },
+    {
+        "tld": ".theatre",
+        "currency": "USD",
+        "register": 465.95,
+        "renew": 500.18,
+        "transfer": 499.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 500.18,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:19.106Z"
+    },
+    {
+        "tld": ".tickets",
+        "currency": "USD",
+        "register": 326.2,
+        "renew": 361.4,
+        "transfer": 361.2,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 361.4,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:19.879Z"
+    },
+    {
+        "tld": ".tienda",
+        "currency": "USD",
+        "register": 47.81,
+        "renew": 47.81,
+        "transfer": 47.61,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:20.609Z"
+    },
+    {
+        "tld": ".tips",
+        "currency": "USD",
+        "register": 11.59,
+        "renew": 25.04,
+        "transfer": 24.84,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 25.04,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:21.366Z"
+    },
+    {
+        "tld": ".tires",
+        "currency": "USD",
+        "register": 72.44,
+        "renew": 72.44,
+        "transfer": 72.24,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:22.109Z"
+    },
+    {
+        "tld": ".to",
+        "currency": "USD",
+        "register": 20.7,
+        "renew": 20.7,
+        "transfer": 20.7,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:22.884Z"
+    },
+    {
+        "tld": ".today",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 22.97,
+        "transfer": 22.77,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 22.97,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:23.631Z"
+    },
+    {
+        "tld": ".tools",
+        "currency": "USD",
+        "register": 14.17,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:24.352Z"
+    },
+    {
+        "tld": ".top",
+        "currency": "USD",
+        "register": 1.25,
+        "renew": 4.05,
+        "transfer": 3.85,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 4.05,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:25.091Z"
+    },
+    {
+        "tld": ".tours",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 49.88,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:25.829Z"
+    },
+    {
+        "tld": ".town",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:26.579Z"
+    },
+    {
+        "tld": ".toys",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 51.95,
+        "transfer": 51.75,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 51.95,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:27.325Z"
+    },
+    {
+        "tld": ".trade",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:28.070Z"
+    },
+    {
+        "tld": ".trading",
+        "currency": "USD",
+        "register": 16.76,
+        "renew": 16.76,
+        "transfer": 16.56,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:28.780Z"
+    },
+    {
+        "tld": ".training",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:29.629Z"
+    },
+    {
+        "tld": ".tv",
+        "currency": "USD",
+        "register": 24.98,
+        "renew": 24.98,
+        "transfer": 24.98,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:30.400Z"
+    },
+    {
+        "tld": ".uk",
+        "currency": "USD",
+        "register": 5.42,
+        "renew": 5.42,
+        "transfer": 5.42,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:31.170Z"
+    },
+    {
+        "tld": ".uk.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:31.731Z"
+    },
+    {
+        "tld": ".uk.net",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:32.294Z"
+    },
+    {
+        "tld": ".university",
+        "currency": "USD",
+        "register": 49.88,
+        "renew": 49.88,
+        "transfer": 49.68,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:33.041Z"
+    },
+    {
+        "tld": ".uno",
+        "currency": "USD",
+        "register": 4.33,
+        "renew": 20.9,
+        "transfer": 20.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.9,
+        "promotions": [
+            "auto-radix-01-01-2025"
+        ],
+        "last_updated": "2026-06-01T21:26:33.827Z"
+    },
+    {
+        "tld": ".us",
+        "currency": "USD",
+        "register": 1.55,
+        "renew": 6.48,
+        "transfer": 6.48,
+        "icann_fee": 0,
+        "is_on_sale": true,
+        "original_price": 6.48,
+        "promotions": [
+            "auto-us-06-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:34.473Z"
+    },
+    {
+        "tld": ".us.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:35.016Z"
+    },
+    {
+        "tld": ".us.org",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:35.696Z"
+    },
+    {
+        "tld": ".vacations",
+        "currency": "USD",
+        "register": 31.25,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:36.424Z"
+    },
+    {
+        "tld": ".vana",
+        "currency": "USD",
+        "register": 2070.2,
+        "renew": 2070.2,
+        "transfer": 2070,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:37.169Z"
+    },
+    {
+        "tld": ".ventures",
+        "currency": "USD",
+        "register": 5.38,
+        "renew": 47.81,
+        "transfer": 47.61,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 47.81,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:37.943Z"
+    },
+    {
+        "tld": ".vet",
+        "currency": "USD",
+        "register": 33.32,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:38.782Z"
+    },
+    {
+        "tld": ".viajes",
+        "currency": "USD",
+        "register": 35.18,
+        "renew": 35.18,
+        "transfer": 34.98,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:39.545Z"
+    },
+    {
+        "tld": ".video",
+        "currency": "USD",
+        "register": 4.34,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:40.255Z"
+    },
+    {
+        "tld": ".villas",
+        "currency": "USD",
+        "register": 47.81,
+        "renew": 47.81,
+        "transfer": 47.61,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:41.157Z"
+    },
+    {
+        "tld": ".vin",
+        "currency": "USD",
+        "register": 6.41,
+        "renew": 47.81,
+        "transfer": 47.61,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 47.81,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:41.962Z"
+    },
+    {
+        "tld": ".vip",
+        "currency": "USD",
+        "register": 3.82,
+        "renew": 4.9,
+        "transfer": 4.7,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 4.9,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:42.699Z"
+    },
+    {
+        "tld": ".vision",
+        "currency": "USD",
+        "register": 36.43,
+        "renew": 36.43,
+        "transfer": 36.23,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:43.792Z"
+    },
+    {
+        "tld": ".vodka",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:44.514Z"
+    },
+    {
+        "tld": ".vote",
+        "currency": "USD",
+        "register": 20.9,
+        "renew": 72.65,
+        "transfer": 72.45,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 72.65,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:45.264Z"
+    },
+    {
+        "tld": ".voto",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 55.93,
+        "transfer": 55.73,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 55.93,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:46.041Z"
+    },
+    {
+        "tld": ".voyage",
+        "currency": "USD",
+        "register": 46.78,
+        "renew": 46.78,
+        "transfer": 46.58,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:46.830Z"
+    },
+    {
+        "tld": ".wales",
+        "currency": "USD",
+        "register": 10.6,
+        "renew": 10.6,
+        "transfer": 10.4,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:47.692Z"
+    },
+    {
+        "tld": ".watch",
+        "currency": "USD",
+        "register": 2.79,
+        "renew": 35.39,
+        "transfer": 35.19,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 35.39,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:48.434Z"
+    },
+    {
+        "tld": ".webcam",
+        "currency": "USD",
+        "register": 10.53,
+        "renew": 10.53,
+        "transfer": 10.33,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:49.280Z"
+    },
+    {
+        "tld": ".website",
+        "currency": "USD",
+        "register": 1.18,
+        "renew": 20.84,
+        "transfer": 20.64,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 20.84,
+        "promotions": [
+            "auto-website-special"
+        ],
+        "last_updated": "2026-06-01T21:26:50.029Z"
+    },
+    {
+        "tld": ".wedding",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:50.752Z"
+    },
+    {
+        "tld": ".wiki",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 26.08,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:51.486Z"
+    },
+    {
+        "tld": ".win",
+        "currency": "USD",
+        "register": 4.32,
+        "renew": 5.35,
+        "transfer": 5.15,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 5.35,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:52.233Z"
+    },
+    {
+        "tld": ".wine",
+        "currency": "USD",
+        "register": 7.45,
+        "renew": 47.81,
+        "transfer": 47.61,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 47.81,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:52.965Z"
+    },
+    {
+        "tld": ".work",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 10.58,
+        "transfer": 10.38,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 10.58,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:54.105Z"
+    },
+    {
+        "tld": ".works",
+        "currency": "USD",
+        "register": 3.31,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:54.842Z"
+    },
+    {
+        "tld": ".world",
+        "currency": "USD",
+        "register": 1.75,
+        "renew": 33.32,
+        "transfer": 33.12,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 33.32,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:55.570Z"
+    },
+    {
+        "tld": ".wtf",
+        "currency": "USD",
+        "register": 2.27,
+        "renew": 29.18,
+        "transfer": 28.98,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 29.18,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:56.304Z"
+    },
+    {
+        "tld": ".xxx",
+        "currency": "USD",
+        "register": 10.55,
+        "renew": 98.53,
+        "transfer": 98.33,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 98.53,
+        "promotions": [
+            "auto-godaddy-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:57.061Z"
+    },
+    {
+        "tld": ".xyz",
+        "currency": "USD",
+        "register": 0.98,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "auto-june-promos-06-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:57.716Z"
+    },
+    {
+        "tld": ".yachts",
+        "currency": "USD",
+        "register": 1.24,
+        "renew": 12.72,
+        "transfer": 12.52,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 12.72,
+        "promotions": [
+            "registration-auto-promo-2026"
+        ],
+        "last_updated": "2026-06-01T21:26:58.489Z"
+    },
+    {
+        "tld": ".yoga",
+        "currency": "USD",
+        "register": 26.08,
+        "renew": 26.08,
+        "transfer": 25.88,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:26:59.248Z"
+    },
+    {
+        "tld": ".you",
+        "currency": "USD",
+        "register": 13.98,
+        "renew": 18.31,
+        "transfer": 18.11,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 18.31,
+        "promotions": [
+            "auto-amazon-04-01-26"
+        ],
+        "last_updated": "2026-06-01T21:26:59.989Z"
+    },
+    {
+        "tld": ".za.com",
+        "currency": "USD",
+        "register": 0,
+        "renew": 0,
+        "transfer": 0,
+        "icann_fee": 0,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:27:00.542Z"
+    },
+    {
+        "tld": ".zip",
+        "currency": "USD",
+        "register": 10.52,
+        "renew": 10.52,
+        "transfer": 10.32,
+        "icann_fee": 0.2,
+        "is_on_sale": false,
+        "original_price": null,
+        "promotions": [],
+        "last_updated": "2026-06-01T21:27:01.298Z"
+    },
+    {
+        "tld": ".zone",
+        "currency": "USD",
+        "register": 7.96,
+        "renew": 31.25,
+        "transfer": 31.05,
+        "icann_fee": 0.2,
+        "is_on_sale": true,
+        "original_price": 31.25,
+        "promotions": [
+            "auto-ID-h1-2026"
+        ],
+        "last_updated": "2026-06-01T21:27:02.039Z"
+    }
+]
